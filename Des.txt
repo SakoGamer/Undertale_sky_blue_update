@@ -1,7 +1,9 @@
-UndertaleSB Client! What It Does
+UndertaleSB Client What It Does?
+
 UndertaleSB Client is a small launcher tool I'm creating for my fan game Undertale Sky Blue. It's designed to help players stay up to date and make it easier to manage the game.
 What does it do?
 Checks for updates automatically
 Every time you turn on your PC, the client checks if there is a new version of the game available by reading a small online file.
 Notifies about new updates
 If an update is found, it shows a simple message letting you know there's a new version ready to download.
+                                                                                                                                                                                                                                                                                                                                                                               From SakoGamer
