@@ -7,3 +7,4 @@ Every time you turn on your PC, the client checks if there is a new version of t
 Notifies about new updates
 If an update is found, it shows a simple message letting you know there's a new version ready to download.
                                                                                                                                                                                                                                                                                                                                                                                From SakoGamer
+Запомните
